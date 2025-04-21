@@ -7,10 +7,10 @@ Welcome to the official legal repository for **AutoLens Studio**, a division of 
 This repository contains the following documents that govern the use of our services, deliverables, and intellectual property:
 
 ## 📑 Included Legal Documents:
-- **[LICENSE.md](legal/LICENSE.md)** – Creative Commons BY-NC 4.0 License for general media protections.
-- **[TOS.md (Terms of Service)](legal/TOS.md)** – Client agreements covering booking, refunds, usage rights, and liabilities.
-- **[PrivacyPolicy.md](legal/PrivacyPolicy.md)** – Protection and handling of client data, personal information, and privacy rights.
-- **[EULA.md (End-User License Agreement)](legal/EULA.md)** – Specific usage license for media (photos, videos) provided to clients.
+- **[LICENSE.md](LICENSE.md)** – Creative Commons BY-NC 4.0 License for general media protections.
+- **[TOS.md (Terms of Service)](TOS.md)** – Client agreements covering booking, refunds, usage rights, and liabilities.
+- **[PrivacyPolicy.md](PrivacyPolicy.md)** – Protection and handling of client data, personal information, and privacy rights.
+- **[EULA.md (End-User License Agreement)](EULA.md)** – Specific usage license for media (photos, videos) provided to clients.
 
 ## ⚖️ Legal Philosophy:
 AutoLens Studio operates with a client-first, transparency-driven approach.  

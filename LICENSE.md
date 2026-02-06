@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright (c) 2025 AutoLens Studio, a division of Srdjan Lopez LLC
+Copyright (c) 2025 - 2026 AutoLens Studio, a division of Srdjan Lopez LLC
 
 You are free to:
 

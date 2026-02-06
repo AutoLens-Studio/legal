@@ -41,7 +41,7 @@ AutoLens Studio reserves the right to update or modify these Terms of Service at
 
 ## 10. Contact
 For questions regarding these terms, please contact us at:
-- Email: pnwautolens@gmail.com
+- Email: support@autolensstudio.com
 - Instagram: @AutoLens.Studio
 
 ---

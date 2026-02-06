@@ -22,8 +22,8 @@ Our policies reflect respect, flexibility, and professionalism in the creative a
 
 For more information, visit our Instagram page: [@AutoLens.Studio](https://www.instagram.com/autolens.studio/)
 
-For inquiries, email us at: **pnwautolens@gmail.com**
+For inquiries, email us at: **support@autolensstudio.com**
 
 ---
 
-> © 2025 AutoLens Studio, a division of Srdjan Lopez LLC. All rights reserved.
+> © 2025 - 2026 AutoLens Studio, a division of Srdjan Lopez LLC. All rights reserved.

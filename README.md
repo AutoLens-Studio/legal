@@ -1,4 +1,4 @@
-> © 2025 AutoLens Studio, a division of Srdjan Lopez LLC. All rights reserved.
+> © 2025 - 2026 AutoLens Studio, a division of Srdjan Lopez LLC. All rights reserved.
 
 # 📜 AutoLens Studio Legal Documentation
 

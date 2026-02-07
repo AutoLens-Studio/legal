@@ -11,6 +11,7 @@ This repository contains the following documents that govern the use of our serv
 - **[TOS.md (Terms of Service)](TOS.md)** - Client agreements covering booking, refunds, usage rights, and liabilities.
 - **[PrivacyPolicy.md](PrivacyPolicy.md)** - Protection and handling of client data, personal information, and privacy rights.
 - **[EULA.md (End-User License Agreement)](EULA.md)** - Specific usage license for media (photos, videos) provided to clients.
+- **[ALS-Discord-Bot-Policy.md (AutoLens Studio Discord Bot Policy)](ALS-Discord-Bot-Policy.md)** - Terms and conditions.
 
 ## ⚖️ Legal Philosophy:
 AutoLens Studio operates with a client-first, transparency-driven approach.  

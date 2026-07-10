@@ -1,108 +1,139 @@
 # AutoLens Studio Discord Bot Policy
 
-Last Updated: February 5, 2026
+**Effective date:** July 10, 2026  
+**Last updated:** July 10, 2026
 
-This policy applies to the official AutoLens Studio Discord bot operated by AutoLens Studio, a division of Srdjan Lopez LLC.
+This policy applies to the official AutoLens Studio Discord bot operated by **Srdjan Lopez LLC d/b/a AutoLens Studio** ("AutoLens Studio," "we," "us," or "our").
 
-By inviting or interacting with the AutoLens Studio Discord bot, you agree to the terms outlined in this document, as well as the broader AutoLens Studio Terms of Service and Privacy Policy referenced below.
-
----
+By using the bot, you agree to this policy and to Discord's applicable terms, community rules, and privacy policy.
 
 ## 1. Bot Purpose
 
-The AutoLens Studio Discord bot is designed to support the AutoLens Studio community by providing updates, links, and utility features.
+The AutoLens Studio bot provides basic information, community updates, and staff moderation tools for the official AutoLens Studio Discord community.
 
-Its functionality includes:
-- Sharing official AutoLens Studio announcements and updates
-- Responding to user commands
-- Assisting with basic moderation and community tools
-- Serving as an informational and utility bot within the AutoLens Studio Discord server
+The bot does not process payments, confirm paid sessions, create a binding booking, or provide legal, financial, or safety advice.
 
-The bot does not provide paid services or user accounts and operates solely to distribute AutoLens Studio information and updates within Discord.
+## 2. Available Commands
 
----
+### Public Commands
 
-## 2. Data Collection and Use
+- `/about` provides information about AutoLens Studio and its services.
+- `/booking` provides information about requesting a photography session.
+- `/links` provides official AutoLens Studio links and social-media accounts.
+- `/help` displays the bot's available commands.
+- `/ping` checks whether the bot is responsive.
 
-The AutoLens Studio Discord bot operates with minimal data interaction.
+### Staff Commands
 
-The bot may:
-- Read message content strictly for the purpose of responding to commands
-- Post automated notifications for new AutoLens Studio content published on official social media platforms
+The following commands require the applicable Discord permissions:
+
+- `/announce` posts an announcement to the community.
+- `/photodrop` shares a photo or media update with the community.
+- `/notify` posts a notification about new social-media content.
+- `/clear` removes selected messages from a channel.
+
+The `/booking` command is informational only. A session is not requested or confirmed until the user completes the official AutoLens Studio booking process.
+
+## 3. Information Processed by the Bot
+
+When a command is used, Discord may send the bot limited information needed to perform the command, such as:
+
+- the command name and options supplied;
+- the Discord user, server, channel, or interaction identifiers needed to respond;
+- the user's applicable Discord permissions; and
+- content supplied to an authorized staff command.
+
+The bot processes this information only to perform the requested function.
+
+## 4. No-Log Bot Practices
+
+The AutoLens Studio bot does not maintain its own persistent database of:
+
+- command history;
+- Discord user profiles;
+- message history;
+- IP addresses;
+- advertising or behavioral profiles; or
+- analytics tied to individual Discord users.
+
+Command information is processed transiently and is not retained by AutoLens Studio as a separate user record after the command is completed.
+
+Content posted through `/announce`, `/photodrop`, or `/notify` becomes a Discord message and remains subject to Discord's platform controls and retention practices.
+
+The `/clear` command processes the message or channel information needed to remove selected messages. The bot does not retain a separate copy of deleted messages.
+
+## 5. How Bot Data Is Used
+
+Bot interaction data is used only to:
+
+- complete the selected command;
+- verify whether a user has the required Discord permission;
+- post authorized community content;
+- remove messages when an authorized staff member uses `/clear`;
+- maintain basic bot functionality; and
+- respond to support, abuse, or security issues involving the bot.
 
 The bot does not:
-- Store user IDs
-- Store server IDs
-- Log messages long term
-- Maintain a database
-- Use third party APIs
-- Use artificial intelligence or language models
-- Collect names, email addresses, or payment information
 
-Server and user identifiers may be processed temporarily by Discord as part of standard bot functionality, but AutoLens Studio does not store or retain this information.
+- sell Discord data;
+- use Discord data for targeted advertising;
+- build user profiles;
+- contact users outside Discord using bot interaction data;
+- request Discord passwords, account tokens, or payment-card information; or
+- use Discord messages or interaction data to train an artificial-intelligence model.
 
----
+## 6. Staff Command Responsibility
 
-## 3. Data Storage and Retention
+Staff commands may be used only by authorized users with the required Discord permissions.
 
-The AutoLens Studio Discord bot does not store persistent data.
+Staff members are responsible for ensuring that announcements, photos, links, and notifications they post are lawful, accurate, authorized, and appropriate for the AutoLens Studio community.
 
-Any data processed is handled in real time and discarded immediately after command execution. No historical logs or records are maintained.
+AutoLens Studio may restrict or remove staff access when permissions are misused or no longer required.
 
----
+## 7. Acceptable Use
 
-## 4. Hosting and Infrastructure
+You may not use or attempt to use the bot to:
 
-The bot is operated on privately hosted infrastructure managed by AutoLens Studio.
+- violate a law, Discord rule, or another person's rights;
+- harass, threaten, impersonate, deceive, or exploit another person;
+- distribute malware, spam, scams, or harmful links;
+- bypass permissions, rate limits, security controls, or moderation actions;
+- scrape, probe, disrupt, overload, or reverse engineer the bot;
+- submit content you do not have permission to share; or
+- interfere with the bot, Discord server, or other users.
 
-Reasonable administrative and technical measures are taken to ensure secure operation. However, no system can be guaranteed to be completely secure.
+AutoLens Studio may restrict bot access, remove content, or report conduct when reasonably necessary to protect the community, users, systems, or legal rights.
 
----
+## 8. Sensitive Information
 
-## 5. Third Party Services
+Do not send passwords, Discord account tokens, payment-card numbers, government identification numbers, medical information, or other sensitive information through the bot.
 
-The bot relies on Discord platform functionality and publicly available AutoLens Studio content to operate.
+The bot will never ask for your Discord password or account token.
 
-AutoLens Studio is not responsible for Discord’s data handling practices. Users should review Discord’s own policies for more information.
+## 9. Discord Platform
 
----
+Discord independently operates the Discord platform and processes account, device, server, channel, message, and usage information under its own terms and privacy policy.
 
-## 6. Limitation of Liability
+AutoLens Studio does not control Discord's platform-wide processing, storage, moderation, account enforcement, or retention practices.
 
-The AutoLens Studio Discord bot is provided on an as-is basis.
+## 10. Availability and Changes
 
-AutoLens Studio and Srdjan Lopez LLC are not liable for:
-- Bot downtime or interruptions
-- Misuse of the bot by users
-- Platform related issues caused by Discord
-- Any indirect or incidental damages resulting from bot usage
+The bot is provided on an "as available" basis. Commands may be changed, restricted, interrupted, or discontinued.
 
----
+AutoLens Studio does not guarantee uninterrupted access, error-free operation, or permanent availability.
 
-## 7. Changes to This Policy
+We may update this policy when the bot's commands, data practices, or legal obligations change. The effective date at the top identifies the current version.
 
-This policy may be updated from time to time to reflect changes in functionality or legal requirements.
+## 11. Limitation of Liability
 
-Material changes will be reflected by updating the revision date at the top of this document.
+To the fullest extent permitted by law, Srdjan Lopez LLC and AutoLens Studio are not liable for indirect, incidental, special, or consequential losses caused by bot downtime, Discord platform issues, unauthorized use, user-submitted content, or reliance on an informational bot response.
 
----
+Nothing in this policy limits liability that cannot lawfully be limited.
 
-## 8. Governing Legal Documents
+## 12. Contact and Reports
 
-This policy supplements, but does not replace, the official AutoLens Studio legal documentation.
+Questions, privacy requests, bot issues, and reports of misuse may be sent to:
 
-Full terms and privacy practices are available here:
-- Terms of Service: https://github.com/AutoLens-Studio/legal/blob/main/TOS.md
-- Privacy Policy: https://github.com/AutoLens-Studio/legal/blob/main/PrivacyPolicy.md
-
----
-
-## 9. Contact
-
-For questions regarding this policy or the AutoLens Studio Discord bot, please contact:
-
-support@autolensstudio.com
-
----
-
-© 2025 - 2026 AutoLens Studio, a division of Srdjan Lopez LLC. All rights reserved.
+**Srdjan Lopez LLC d/b/a AutoLens Studio**  
+Email: **support@autolensstudio.com**  
+Website: **https://autolensstudio.com**
